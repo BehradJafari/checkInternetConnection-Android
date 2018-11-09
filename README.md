@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity implements InternetConnectiv
 
 # Hamiss 
 visit our website :
-[Hamiss.ir](https://www.google.com "Hamiss's Homepage")
+[Hamiss.ir](https://www.hamiss.ir "Hamiss's Homepage")
 
 
 ![alt text](https://hamiss.ir/img/bg-img/logo.png "Logo Title Text 1")
